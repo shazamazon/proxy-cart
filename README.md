@@ -26,7 +26,7 @@ Cart service and proxy developed by <a href="https://github.com/jkcryptolock">jk
 
 ### Tech Stack
 
-_Hackmazon Cart Service_ was built primarily with ReactJS on the front end, Node/Express on the backend, and MongoDB for the database.
+_Shazamazon Cart Service_ was built primarily with ReactJS on the front end, Node/Express on the backend, and MongoDB for the database.
 
 <img src="https://lh3.googleusercontent.com/ZIHOUCCxFaB7NirPhEX4K8cyTPIMvxvdJxpuhjb_qJ_dk-z7qEgD8riaR0ODXzXQZYn23zHpFiwGzxTDT88FTLeUMoPqlIjyLKoL1am8MH5pCoJExjL8SUC8uaeeiAjvQB0_vym6" width="100"/>
 <img src="https://lh5.googleusercontent.com/_RcI-sgNRX5J0olXzRycjQN3tysoTXbH8kXRfE0AtBY8KkDrINApsrfZGAkczZYGwKTPZlYdJXQyKmWO4zFzvON9Op6Ovcu0GQxwabxWfGJH__oRB6YCC-qD_3b2yj_efkprD8UP" width="100" />
