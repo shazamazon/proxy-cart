@@ -2,7 +2,7 @@
 
 ### About
 
-<a href="https://github.com/shazamazon/module-cart">Shazamazon Cart</a> is a full stack, responsive, e-commerce product reviews service delivered as a microservice, inspired by Amazon.
+<a href="https://github.com/shazamazon/module-cart">Shazamazon Cart</a> is part of a full stack, responsive, e-commerce product cart and pricing service delivered as a microservice, inspired by Amazon.
 
 It was built as part of a <a href="https://github.com/shazamazon">e-commerce product page MVP</a> but can be used as a stand-alone cart and pricing section or combined with other services/components to create a full e-commerce site.
 
